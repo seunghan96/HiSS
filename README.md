@@ -1,6 +1,6 @@
-# Hierarchical multi-task learning, self-supervised learning, Self-organizing map
+# HiSS: Hierarchical Multi-Task Learning with Self-Supervised Auxiliary Task
 
-Seunghan Lee and Taeyong Park
+Seunghan Lee and Taeyoung Park
 
 
 
