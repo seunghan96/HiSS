@@ -1,6 +1,6 @@
 # HiSS: Hierarchical Multi-Task Learning with Self-Supervised Auxiliary Task
 
-Seunghan Lee and Taeyoung Park
+Authors: Seunghan Lee and Taeyoung Park
 
 
 
